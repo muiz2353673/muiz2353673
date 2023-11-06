@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently doing bachelors in computer science<br>🌱 I’m currently learning app development<br>⚡  It all started with "Hello world"
+🔭 I’m currently doing bachelors in computer science<br>⚡  It all started with "Hello world"
 
 
 ## 🌐 Socials:
