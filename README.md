@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning Web Dev and AI<br>⚡  It all started with "Hello world"
+🔭 I’m currently learning Devops <br>⚡  It all started with "Hello world"
 
 
 ## 🌐 Socials:
