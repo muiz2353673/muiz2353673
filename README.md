@@ -1,21 +1,83 @@
-# 💫 About Me:
-🔭 I’m currently learning Data science <br>⚡  It all started with "Hello world"
 
+## 🧠 Who’s the Star?
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/munshi_muiz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-muiz-munshi-6ab4141b8)
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=muiz2353673&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=muiz2353673&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=muiz2353673&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+```yaml
+Name: Abdul Muiz Munshi
+Title: Full-Stack Sorcerer | Data Explorer | DevOps Tinkerer
+Location: UK 🇬🇧
+Superpower: Turning ☕ into 🧠
+```
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+🎓 CS Graduate who writes, builds, and learns in public  
+🧠 Loves unraveling data mysteries & training models  
+🛠️ Open source contributor and tech community geek  
+🎮 Gamer, Badminton Captain & Code Debugging Ninja
 
 ---
-[![](https://visitcount.itsvg.in/api?id=muiz2353673&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔧 Tech Arsenal (With Animation)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,php,react,laravel,postgresql,mysql,linux,git,vscode,github" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="250"/>
+</p>
+
+---
+
+## 🚀 Currently Building...
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=FEDA75&lines=🤖+Deep+Learning+Models;📊+Data+Visualizations+that+Speak;🧩+MLOps+Pipelines;💥+Web+Apps+with+React+and+Laravel" />
+</p>
+
+---
+
+## 📈 Trending on My GitHub
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muiz2353673&theme=tokyonight&hide_border=false" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=muiz2353673&show_icons=true&theme=tokyonight&hide_border=false" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muiz2353673&layout=compact&theme=tokyonight&hide_border=false" />
+</p>
+
+---
+
+## 💬 Let’s Connect (Animated Badges)
+
+<p align="center">
+  <a href="https://instagram.com/munshi_muiz">
+    <img src="https://img.shields.io/badge/Instagram-FF416C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=black&color=E50914&logoWidth=20" />
+  </a>
+  <a href="https://linkedin.com/in/abdul-muiz-munshi-6ab4141b8">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black" />
+  </a>
+</p>
+
+---
+
+## 💭 Random Review (Dev Quote)
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+## 🌀 Easter Eggs
+
+- 💥 Fluent in 4+ programming languages  
+- 💡 Building cool projects solo & in teams  
+- ⚙️ Loves exploring cloud, CI/CD & automation  
+- 🧠 Never stops learning  
+- 🎬 Currently casting: **Data/DevOps Roles** 🎯  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif" width="160" />
+</p>
