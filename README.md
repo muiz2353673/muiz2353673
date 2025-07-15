@@ -5,7 +5,7 @@
 
 ```yaml
 Name: Abdul Muiz Munshi
-Title: Full-Stack Sorcerer | Data Explorer | DevOps Tinkerer
+Title: Fresh Graduate
 Location: UK 🇬🇧
 Superpower: Turning ☕ into 🧠
 ```
