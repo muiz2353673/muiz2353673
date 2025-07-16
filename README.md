@@ -32,7 +32,7 @@ Superpower: Turning ☕ into 🧠
 ## 🚀 Currently Building...
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&color=FEDA75&lines=🤖+Deep+Learning+Models;📊+Data+Visualizations+that+Speak;🧩+MLOps+Pipelines;💥+Web+Apps+with+React+and+Laravel" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&color=F70606&lines=🤖+Deep+Learning+Models;📊+Data+Visualizations+that+Speak;🧩+MLOps+Pipelines;💥+Web+Apps+with+React+and+Laravel" />
 </p>
 
 ---
