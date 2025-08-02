@@ -49,12 +49,6 @@ Status: Open to Software Development & Data Science Opportunities
 
 ## 🚀 Current Projects
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&color=F70606&lines=🤖+AI-Powered+Academic+Assistant;📊+Machine+Learning+Models;🧩+Full-Stack+Web+Applications;💥+Data+Science+Projects;☁️+IoT+and+Embedded+Systems" alt="Current Projects"/>
-</div>
-
-### 🔥 Featured Projects
-
 - **🤖 Noted.AI** - AI-powered academic assistant platform with note summarization, flashcard generation, and citation tools (React, Node.js, MongoDB, OpenAI API, Stripe, TypeScript)
 - **🎬 Netflix Movie Recommender** - Machine learning-based movie recommendation system using advanced algorithms (Python, ML, Data Science)
 - **🏨 Hotel Cancellation Prediction** - Data science project predicting hotel booking cancellations using ML models (Python, Data Science, Predictive Analytics)
