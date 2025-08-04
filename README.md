@@ -21,7 +21,7 @@ Name: Abdul Muiz Munshi
 Title: First Class Honours CS Graduate & Full Stack Developer
 Location: Huddersfield, United Kingdom 🇬🇧
 Education: BSc (Hons) Computer Science - First Class Honours
-Experience: 4+ Years in Software Development
+Experience: 4+ Years in Software Development (not in corporate)
 Status: Open to Software Development & Data Science Opportunities
 ```
 
