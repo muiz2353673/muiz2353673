@@ -316,4 +316,4 @@ Status: Open to Software Development & Data Science Opportunities
   <!-- Fun animated gif -->
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200" alt="Let's Code Together"/>
 </div>
-v
+
