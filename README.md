@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Abdul Muiz Munsh
+# 👋 Hi there, I'm Abdul Muiz Munshi
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding Animation"/>
