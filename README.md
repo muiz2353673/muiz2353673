@@ -87,6 +87,20 @@ Rather than "just building apps", my work typically involves:
 
 ## 🚧 Selected Projects
 
+### 🏛️ Beaccon – Council / Community Platform
+
+- **Problem:** Need for a centralised platform for council operations, stakeholder engagement, or community delivery
+- **Solution:** Full-stack platform (admin, council, and user-facing modules) for workflows, content, and reporting
+- **Impact:** Streamlined processes, better visibility, and improved engagement for councils and residents
+- **Skills:** Full-stack development · stakeholder requirements · system integration · delivery in a real-world context
+
+### 🏢 Internal Office Website
+
+- **Problem:** Scattered information and tools making it hard for teams to find what they need day-to-day
+- **Solution:** Internal web application for documents, links, workflows, and team resources in one place
+- **Impact:** Less time searching, clearer processes, and a single point of truth for internal operations
+- **Skills:** Internal tools · UX for non-technical users · requirements gathering · maintainable design
+
 ### 🤖 Noted.AI – AI-Powered Academic Assistant
 
 - **Problem:** Students struggle to extract value from large volumes of academic content
