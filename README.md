@@ -14,7 +14,7 @@ Location: London, United Kingdom 🇬🇧
 Education: BSc (Hons) Computer Science – First Class
 Current Role: Full-Stack Software Developer
 Focus Areas:
-  - Technology Consulting
+  - Technology R&D Consulting
   - Digital Transformation
   - Data & AI
   - Process Automation
