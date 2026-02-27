@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Abdul Muiz Munshi
 
-**Technology Consultant | Full-Stack Software Engineer | Business Problem Solver**
+**Associate Business Analyst (Client-Focused) · Stakeholder Management · Requirements & Process Improvement**
 
-I work at the intersection of **technology, data, and business**, helping organisations turn complex problems into **practical, scalable solutions**.
+I work at the intersection of **stakeholder requirements, system design, and delivery**, helping organisations translate business needs into structured digital solutions.
 
 ---
 
@@ -11,77 +11,74 @@ I work at the intersection of **technology, data, and business**, helping organi
 ```yaml
 Name: Abdul Muiz Munshi
 Location: London, United Kingdom 🇬🇧
-Education: BSc (Hons) Computer Science – First Class
-Current Role: Full-Stack Software Developer
+Education: BSc (Hons) Computer Science – First Class Honours
+Current Role: Software Developer (Business Analysis Focus)
 Focus Areas:
-  - Technology R&D Consulting
-  - Digital Transformation
-  - Data & AI
-  - Process Automation
+  - Requirements Gathering & Elicitation
+  - Stakeholder Management
+  - Process Mapping & Process Improvement
+  - Gap Analysis & Solution Design
+  - Agile Delivery
 ```
 
-- 🎓 First Class Computer Science graduate with experience delivering real production systems, not just academic projects
-- 🧠 Enjoys problem definition, stakeholder engagement, and impact creation as much as writing clean code
-- 📊 Experienced in translating business needs → technical solutions → measurable outcomes
-- 🤝 Comfortable working with non-technical stakeholders, explaining trade-offs and guiding decisions
-- 🎯 Long-term goal: grow into a Technology / Digital Transformation Consultant
+- 🎓 First Class Computer Science graduate and Software Developer with strong experience in stakeholder engagement, requirements gathering, and process optimisation
+- 📋 Experienced in translating business needs → structured solution designs → measurable outcomes
+- 🤝 Facilitate stakeholder workshops, resolve ambiguity, and produce structured documentation (user stories, acceptance criteria, process maps)
+- 🔗 Act as the bridge between operations and technology; technical enough to collaborate effectively with engineering teams
+- 🎯 Seeking to transition into a client-focused Business Analyst role to formalise this direction
 
 ---
 
-## 💼 What I Do (Consulting Lens)
+## 💼 What I Do (Business Analysis Lens)
 
 Rather than "just building apps", my work typically involves:
 
-- Analysing business processes and identifying inefficiencies
-- Gathering and refining requirements with stakeholders
-- Designing scalable, maintainable technical solutions
-- Using data, automation, and AI to reduce cost, risk, or manual effort
-- Balancing speed, quality, and long-term maintainability
-- Communicating technical outcomes in clear, business-friendly language
+- Facilitating stakeholder workshops to define functional requirements and prioritise delivery scope
+- Mapping as-is and to-be processes; identifying gaps and designing improved workflows
+- Gathering and documenting business needs; translating into user stories and acceptance criteria
+- Acting as the link between business stakeholders and development; communicating technical constraints and feasibility in commercially understandable language
+- Collaborating with developers during sprint cycles to refine user stories and ensure delivered features align with stakeholder expectations
+- Performing trade-off analysis (cost, time, feasibility) and balancing scope and delivery constraints in an Agile context
 
 ---
 
-## 🧠 Core Consulting Skills
+## 🧠 Business Analysis & Core Skills
 
-### 🧩 Problem Solving & Analysis
+### 📋 Requirements & Solution Design
 
-- Requirements gathering & ambiguity reduction
-- Root-cause analysis
-- Trade-off evaluation (cost, time, risk, scalability)
+- Requirements gathering and elicitation
+- Gap analysis and user stories
+- Systems analysis and solution design
 
-### 🤝 Stakeholder Engagement
+### 🤝 Stakeholder Management
 
-- Translating technical concepts for non-technical audiences
-- Aligning solutions with business goals
+- Stakeholder workshops and facilitation
+- Translating business needs for technical teams
 - Collaborative decision-making
 
-### 📈 Business Impact
+### 📈 Process & Delivery
 
-- Process automation & efficiency gains
-- Data-driven insights for decision support
-- Scalable system design aligned to growth
+- Process mapping and process improvement
+- Digital transformation and workflow optimisation
+- Agile delivery and trade-off analysis
 
 ---
 
-## 🛠️ Technical Toolkit (Used to Solve Business Problems)
+## 🛠️ Tools & Methods
 
-### 🔹 Applications & Systems
+`Jira` · `Confluence` · `Miro / Lucidchart` · `Agile Scrum` · `User Stories` · `MoSCoW Prioritisation` · `AS-IS / TO-BE Process Mapping`
 
-- Full-stack web applications (React, Node.js, Spring Boot, Laravel)
-- API-first design & system integration
-- Internal tools, dashboards, and workflow automation
+---
 
-### 🔹 Data & Analytics
+## 💻 Technical Fluency (Enabling Analysis)
 
-- Data analysis (Python, Pandas, SQL)
-- Predictive modelling & ML (Scikit-learn)
-- Visualisation & reporting (Tableau, dashboards)
+Strong technical fluency enabling realistic feasibility assessment and effective collaboration with engineering teams.
 
-### 🔹 Cloud & Delivery
+**Applications & Systems:** React · Node.js · Spring Boot · Laravel · APIs · SQL  
+**Data & Analytics:** Python · Pandas · Tableau  
+**Cloud & Delivery:** Docker · AWS · Git · GitHub
 
-- Containerisation & deployment (Docker, AWS)
-- Version control & collaboration (Git, GitHub)
-- Production monitoring & performance optimisation
+Technical depth enables realistic solution design and effective collaboration — not just documentation.
 
 ---
 
@@ -89,60 +86,60 @@ Rather than "just building apps", my work typically involves:
 
 ### 🏛️ Beaccon – Council / Community Platform
 
-- **Problem:** Need for a centralised platform for council operations, stakeholder engagement, or community delivery
-- **Solution:** Full-stack platform (admin, council, and user-facing modules) for workflows, content, and reporting
-- **Impact:** Streamlined processes, better visibility, and improved engagement for councils and residents
-- **Skills:** Full-stack development · stakeholder requirements · system integration · delivery in a real-world context
+- **Business problem:** Councils needed a centralised platform for operations and resident engagement
+- **Stakeholders:** Council clients, operations, delivery team
+- **Constraints:** Scope, time, and integration with existing processes
+- **My role:** Requirements gathering, process mapping, gap analysis, trade-off analysis; bridge between business and build
+- **Outcome:** Platform in production; streamlined workflows and improved engagement
+- **Skills:** Requirements gathering · Process mapping · Stakeholder management · Agile
 
-### 🏢 Internal Office Website
+### 🏢 Internal Office Portal
 
-- **Problem:** Scattered information and tools making it hard for teams to find what they need day-to-day
-- **Solution:** Internal web application for documents, links, workflows, and team resources in one place
-- **Impact:** Less time searching, clearer processes, and a single point of truth for internal operations
-- **Skills:** Internal tools · UX for non-technical users · requirements gathering · maintainable design
+- **Business problem:** Scattered information and tools; staff spent time searching for documents and resources
+- **Stakeholders:** Internal operations, multiple teams
+- **Constraints:** Time and existing tooling
+- **My role:** Process analysis, gap identification, requirements and solution structure; acted as bridge between operations and delivery
+- **Outcome:** Single point of truth for **10–12 staff**; reduced time spent locating documents by an estimated **50–80%**
+- **Skills:** Process improvement · Gap analysis · Requirements gathering
 
-### 🤖 Noted.AI – AI-Powered Academic Assistant
+### 🤖 Noted.AI – Academic Assistant *(In Progress)*
 
-- **Problem:** Students struggle to extract value from large volumes of academic content
-- **Solution:** AI-driven summarisation, flashcards, and citation tooling
-- **Impact:** Improved learning efficiency and reduced manual research effort
-- **Skills:** AI integration · product thinking · full-stack delivery
+- **Business problem:** Students need to extract value from large volumes of academic content
+- **Stakeholders:** End users (students), product owner
+- **My role:** Requirements, user stories, and solution structure; prioritisation and scope trade-offs
+- **Outcome:** In progress—focused on learning efficiency and reduced manual effort
+- **Skills:** User stories · Solution design · Agile
 
 ### 🎬 Movie Recommendation System
 
-- **Problem:** Users overwhelmed by content choice
-- **Solution:** ML-based recommendation engine
-- **Impact:** More relevant recommendations and higher engagement
-- **Skills:** Data analysis · modelling · insight generation
-
-### ⚡ Server Performance & Monitoring Tool
-
-- **Problem:** Limited visibility into system performance
-- **Solution:** Automated monitoring and analytics
-- **Impact:** Faster issue diagnosis and improved reliability
-- **Skills:** Systems thinking · operational efficiency
+- **Business problem:** Users overwhelmed by content choice; need relevant recommendations
+- **Stakeholders:** End users, product context
+- **My role:** Problem definition, success criteria, and systems analysis for recommendation logic
+- **Outcome:** Structured approach to recommendation quality and engagement; used for data/analytics insight
+- **Skills:** Systems analysis · Solution design
 
 ---
 
 ## 🎯 Roles I'm Interested In
 
-I'm particularly interested in roles that combine technology with a consulting mindset:
+I'm particularly interested in client-focused roles that combine business analysis with delivery:
 
-- Graduate / Associate Technology Consultant
-- Digital Transformation Consultant
+- Associate Business Analyst
+- Business Analyst (Client-Focused)
 - Technical Business Analyst
-- Client-Facing Software Engineer
-- Data & AI Consultant
+- Digital Transformation Analyst
+- Requirements / Systems Analyst
+- Graduate Business Analyst
 
 ---
 
 ## 🧠 How I Add Value
 
-- ✔ Strong analytical foundation (CS + real systems)
-- ✔ Comfortable owning problems end-to-end
-- ✔ Fluent in both technical and business language
-- ✔ Bias toward action and impact
-- ✔ Calm and structured under ambiguity
+- ✔ **Stakeholder management** — Workshops, facilitation, and translating business needs into clear requirements and user stories
+- ✔ **Requirements gathering & gap analysis** — Resolving ambiguity, process mapping, and solution design aligned to business goals
+- ✔ **Bridge between operations and technology** — Technical enough to collaborate with developers; focused on business impact and decision-making
+- ✔ **Process improvement & Agile delivery** — Trade-off analysis (cost, time, feasibility); comfortable under constraints and ambiguity
+- ✔ **Professional and client-ready** — Confident, structured, and UK market appropriate
 
 ---
 
@@ -150,7 +147,7 @@ I'm particularly interested in roles that combine technology with a consulting m
 
 | | |
 |---|---|
-| 💼 **LinkedIn** | [linkedin.com/in/abdul-muiz-munshi-6ab4141b8](https://linkedin.com/in/abdul-muiz-munshi-6ab4141b8) |
+| 💼 **LinkedIn** | [linkedin.com/in/abdul-muiz-munshi-6ab4141b8](https://www.linkedin.com/in/abdul-muiz-munshi-6ab4141b8) |
 | 💻 **GitHub** | [github.com/muiz2353673](https://github.com/muiz2353673) |
 | 🌐 **Portfolio** | [muizmunshi.vercel.app](https://muizmunshi.vercel.app) |
 | 📧 **Email** | [muizmunshi@gmail.com](mailto:muizmunshi@gmail.com) |
