@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdul Muiz Munshi
 
-**Associate Business Analyst (Client-Focused) · Stakeholder Management · Requirements & Process Improvement**
+**Software developer (business analysis focussed) · Stakeholder Management · Requirements & Process Improvement**
 
 I work at the intersection of **stakeholder requirements, system design, and delivery**, helping organisations translate business needs into structured digital solutions.
 
