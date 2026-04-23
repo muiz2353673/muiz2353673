@@ -1,153 +1,114 @@
-# 👋 Hi, I'm Abdul Muiz Munshi
+# Hi, I'm Abdul Muiz Munshi
 
-**Software developer (business analysis focussed) · Stakeholder Management · Requirements & Process Improvement**
+**Software engineer (security and operations) · full-stack delivery · UK SOC-oriented**
 
-I work at the intersection of **stakeholder requirements, system design, and delivery**, helping organisations translate business needs into structured digital solutions.
+I have shipped real software: APIs, data, and deployments on stacks you see in production, including **AWS** and **Docker**. I also know the delivery side: **requirements, user stories, and process mapping**. I do not treat security as theory: I think about **who can access what**, **what fails in production**, and **what you need in logs** to support triage and investigation.
+
+**London, UK** · BSc (Hons) Computer Science (First Class)
 
 ---
 
-## 🧭 About Me
+## About me
+
+First-Class Computer Science graduate and full-stack software engineer. I know how services are put together, how they break in production, and what signals you need in logs to explain behaviour, abuse, or failure. I make risk-aware calls under time pressure, work from evidence, and communicate clearly. I am moving deliberately into **UK SOC and security operations** roles: monitoring, log analysis, incident triage, and escalation, with a production engineer's view of systems, not security theory alone.
+
+Comfort with the delivery lifecycle means I can work with product and engineering without hand-waving. I look for **trust boundaries**, **misuse cases**, and **operational failure modes**: what you would need in traces and log lines to see an issue, not just a diagram on a slide.
+
+I am based in **London** and have worked across support and digital leadership roles with high contact volume, **triage**, and **escalation**, which maps well to structured handover in tiered operations teams.
 
 ```yaml
 Name: Abdul Muiz Munshi
-Location: London, United Kingdom 🇬🇧
+Location: London, United Kingdom
 Education: BSc (Hons) Computer Science – First Class Honours
-Current Role: Software Developer (Business Analysis Focus)
-Focus Areas:
-  - Requirements Gathering & Elicitation
-  - Stakeholder Management
-  - Process Mapping & Process Improvement
-  - Gap Analysis & Solution Design
-  - Agile Delivery
+Focus: Software delivery + security and operations (SOC-oriented)
+Current aim: UK SOC / security operations and security-adjacent engineering paths
 ```
 
-- 🎓 First Class Computer Science graduate and Software Developer with strong experience in stakeholder engagement, requirements gathering, and process optimisation
-- 📋 Experienced in translating business needs → structured solution designs → measurable outcomes
-- 🤝 Facilitate stakeholder workshops, resolve ambiguity, and produce structured documentation (user stories, acceptance criteria, process maps)
-- 🔗 Act as the bridge between operations and technology; technical enough to collaborate effectively with engineering teams
-- 🎯 Seeking to transition into a client-focused Business Analyst role to formalise this direction
+---
+
+## Security and systems thinking
+
+I reason about where systems are weak, what to monitor, and how to separate signal from noise. Typical framing (aligned with a SOC or security operations context):
+
+- **Attack surfaces:** APIs, authentication and sessions, admin paths, and anything exposed by misconfiguration, not just the network edge.
+- **Least privilege and access control:** over-broad roles, shared credentials, and separation of duties gaps that show up in real incidents.
+- **Logging and monitoring:** what to record, what to alert on, and which questions a timeline should answer when something looks wrong.
+- **Cloud and infrastructure:** AWS, Docker, and networking as part of the picture, including misconfiguration and exposure, not only application bugs.
+- **Debugging as investigation:** hypothesis, evidence, and narrowing scope, in line with structured handling in a tiered team.
 
 ---
 
-## 💼 What I Do (Business Analysis Lens)
+## Security-focused experience
 
-Rather than "just building apps", my work typically involves:
+**Security assessment: Botium Toys (case study)**  
+Structured review across people, process, and technology. Retail-style scenario: on-prem and online systems, infrastructure, and physical access paths, mapped to **PCI DSS**, **GDPR**, and **SOC**-type expectations, with prioritised recommendations.
 
-- Facilitating stakeholder workshops to define functional requirements and prioritise delivery scope
-- Mapping as-is and to-be processes; identifying gaps and designing improved workflows
-- Gathering and documenting business needs; translating into user stories and acceptance criteria
-- Acting as the link between business stakeholders and development; communicating technical constraints and feasibility in commercially understandable language
-- Collaborating with developers during sprint cycles to refine user stories and ensure delivered features align with stakeholder expectations
-- Performing trade-off analysis (cost, time, feasibility) and balancing scope and delivery constraints in an Agile context
+- Led a structured security and controls assessment: coverage included systems, infrastructure, and physical access where relevant.
+- Recorded material weaknesses: access control, encryption, backup/DR gaps, and limited **IDS-style** network visibility, constraining detection of malicious or anomalous activity.
+- **SOC angle:** the same **logging, monitoring, and detection** gaps are what leave teams blind in real operations. Improving that is as much a telemetry and engineering problem as a policy exercise.
 
 ---
 
-## 🧠 Business Analysis & Core Skills
+## What I do professionally
 
-### 📋 Requirements & Solution Design
-
-- Requirements gathering and elicitation
-- Gap analysis and user stories
-- Systems analysis and solution design
-
-### 🤝 Stakeholder Management
-
-- Stakeholder workshops and facilitation
-- Translating business needs for technical teams
-- Collaborative decision-making
-
-### 📈 Process & Delivery
-
-- Process mapping and process improvement
-- Digital transformation and workflow optimisation
-- Agile delivery and trade-off analysis
+- **Production delivery** at **Letterbox Distribution**: features shipped in a live product context (requirements, user stories, process mapping, Agile sprints), with a habit of asking where trust boundaries are, what misuse cases exist, and what you would need in logs and traces to see a failure.
+- **First-line and research experience** (university and internships): high-volume contact, triage, short written notes, and escalation on a clear path, comparable to initial classification and handover discipline in operations workflows.
+- **Technical collaboration:** APIs, integration patterns, and stack traces; enough depth to work with code and discuss fixes without bluffing.
 
 ---
 
-## 🛠️ Tools & Methods
+## Core skills and tools
 
-`Jira` · `Confluence` · `Miro / Lucidchart` · `Agile Scrum` · `User Stories` · `MoSCoW Prioritisation` · `AS-IS / TO-BE Process Mapping`
+**Security and systems:** attack surfaces, least privilege, logging and monitoring gaps, incident-relevant questions.
 
----
+**Engineering:** Python, JavaScript, Java, SQL; React, Spring Boot, Laravel, REST APIs; Git and GitHub; data analysis and reporting (Pandas, notebooks as used).
 
-## 💻 Technical Fluency (Enabling Analysis)
+**Infrastructure:** Docker, AWS, Linux; misconfiguration and exposure as part of the operations picture.
 
-Strong technical fluency enabling realistic feasibility assessment and effective collaboration with engineering teams.
+**Delivery and communication:** Agile/Scrum, workshops, requirements and user stories; Jira, Confluence, Miro, Lucidchart; clear writing for handover and shift notes.
 
-**Applications & Systems:** React · Node.js · Spring Boot · Laravel · APIs · SQL  
-**Data & Analytics:** Python · Pandas · Tableau  
-**Cloud & Delivery:** Docker · AWS · Git · GitHub
-
-Technical depth enables realistic solution design and effective collaboration — not just documentation.
+`Jira` · `Confluence` · `Miro` · `Lucidchart` · `Agile / Scrum` · `REST` · `Docker` · `AWS` · `Git` · `GitHub`
 
 ---
 
-## 🚧 Selected Projects
+## Selected projects
 
-### 🏛️ Beaccon – Council / Community Platform
+Full write-ups with security, auth, and monitoring angles: **[muizmunshi.vercel.app](https://muizmunshi.vercel.app)** (portfolio).
 
-- **Business problem:** Councils needed a centralised platform for operations and resident engagement
-- **Stakeholders:** Council clients, operations, delivery team
-- **Constraints:** Scope, time, and integration with existing processes
-- **My role:** Requirements gathering, process mapping, gap analysis, trade-off analysis; bridge between business and build
-- **Outcome:** Platform in production; streamlined workflows and improved engagement
-- **Skills:** Requirements gathering · Process mapping · Stakeholder management · Agile
-
-### 🏢 Internal Office Portal
-
-- **Business problem:** Scattered information and tools; staff spent time searching for documents and resources
-- **Stakeholders:** Internal operations, multiple teams
-- **Constraints:** Time and existing tooling
-- **My role:** Process analysis, gap identification, requirements and solution structure; acted as bridge between operations and delivery
-- **Outcome:** Single point of truth for **10–12 staff**; reduced time spent locating documents by an estimated **50–80%**
-- **Skills:** Process improvement · Gap analysis · Requirements gathering
-
-### 🤖 Noted.AI – Academic Assistant *(In Progress)*
-
-- **Business problem:** Students need to extract value from large volumes of academic content
-- **Stakeholders:** End users (students), product owner
-- **My role:** Requirements, user stories, and solution structure; prioritisation and scope trade-offs
-- **Outcome:** In progress—focused on learning efficiency and reduced manual effort
-- **Skills:** User stories · Solution design · Agile
-
-### 🎬 Movie Recommendation System
-
-- **Business problem:** Users overwhelmed by content choice; need relevant recommendations
-- **Stakeholders:** End users, product context
-- **My role:** Problem definition, success criteria, and systems analysis for recommendation logic
-- **Outcome:** Structured approach to recommendation quality and engagement; used for data/analytics insight
-- **Skills:** Systems analysis · Solution design
+| Project | One line |
+|--------|----------|
+| **Beaccon** – council and community platform | Production platform for operations and resident engagement: requirements, process mapping, delivery; auth, PII, APIs, and logging considered in the portfolio. |
+| **Internal office website** | Single hub for 10-12 staff; estimated 50-80% reduction in time spent finding resources; access, data handling, and monitoring notes on the site. |
+| **Noted.AI** (in progress) | Product-style requirements and scope; third-party AI, data retention, and operational signals. |
+| **Movie recommendation system** | Data/ML: evaluation, data-handling, and job/artefact risks. |
+| **Spring Boot, server monitoring, event tracker, hotel cancellation ML** | Further repos on GitHub; each summarised on the portfolio with **identified risks** and **monitoring** notes, not a claim that every control is fully implemented in every repository. |
 
 ---
 
-## 🎯 Roles I'm Interested In
+## Roles I am interested in
 
-I'm particularly interested in client-focused roles that combine business analysis with delivery:
+UK-based **SOC and security operations** roles where **monitoring, log analysis, incident detection**, and **clear escalation** matter. I am also open to **hybrid security-adjacent engineering** paths that keep one foot in production reality.
 
-- Associate Business Analyst
-- Business Analyst (Client-Focused)
-- Technical Business Analyst
-- Digital Transformation Analyst
-- Requirements / Systems Analyst
-- Graduate Business Analyst
+- SOC analyst (Tier 1 / entry)
+- Security operations centre analyst
+- Junior security analyst (operations)
+- IT support / NOC to SOC path
+- Cloud security (operations-leaning)
+- DevSecOps (delivery with security and monitoring)
 
----
-
-## 🧠 How I Add Value
-
-- ✔ **Stakeholder management** — Workshops, facilitation, and translating business needs into clear requirements and user stories
-- ✔ **Requirements gathering & gap analysis** — Resolving ambiguity, process mapping, and solution design aligned to business goals
-- ✔ **Bridge between operations and technology** — Technical enough to collaborate with developers; focused on business impact and decision-making
-- ✔ **Process improvement & Agile delivery** — Trade-off analysis (cost, time, feasibility); comfortable under constraints and ambiguity
-- ✔ **Professional and client-ready** — Confident, structured, and UK market appropriate
+**What I bring:** evidence and triage habits from first-line and research roles; **engineering context** (APIs, cloud-style deployments, log-friendly debugging); **communication** and user-story discipline for handover; **security assessment practice** (Botium case study: controls, gaps, and SOC-relevant visibility).
 
 ---
 
-## 💬 Let's Connect
+## Connect
 
 | | |
 |---|---|
-| 💼 **LinkedIn** | [linkedin.com/in/abdul-muiz-munshi-6ab4141b8](https://www.linkedin.com/in/abdul-muiz-munshi-6ab4141b8) |
-| 💻 **GitHub** | [github.com/muiz2353673](https://github.com/muiz2353673) |
-| 🌐 **Portfolio** | [muizmunshi.vercel.app](https://muizmunshi.vercel.app) |
-| 📧 **Email** | [muizmunshi@gmail.com](mailto:muizmunshi@gmail.com) |
+| **Portfolio** | [muizmunshi.vercel.app](https://muizmunshi.vercel.app) |
+| **LinkedIn** | [linkedin.com/in/abdul-muiz-munshi-6ab4141b8](https://www.linkedin.com/in/abdul-muiz-munshi-6ab4141b8) |
+| **GitHub** | [github.com/muiz2353673](https://github.com/muiz2353673) |
+| **Email** | [muizmunshi@gmail.com](mailto:muizmunshi@gmail.com) |
+
+---
+
+*This README mirrors my live portfolio. For the latest wording and project detail, see the site above.*
